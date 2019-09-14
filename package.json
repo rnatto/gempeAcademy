@@ -1,0 +1,19 @@
+{
+  "name": "gempeacademy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnatto/gempeAcademy.git"
+  },
+  "author": "Renato Barbosa Candido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnatto/gempeAcademy/issues"
+  },
+  "homepage": "https://github.com/rnatto/gempeAcademy#readme"
+}
